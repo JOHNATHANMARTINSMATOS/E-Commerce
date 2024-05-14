@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="ca3aac7e-a75d-402b-8d9d-f2ba5bb98c5d" name="bancoteste Mapping">
+      <data-sources db="93cd0216-c428-404a-9dd4-da2eb1e4bdc9" ddl="b6f94fd4-e0f1-4f23-a5d1-50e17d97f40a" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+  </component>
+</project>
